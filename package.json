@@ -1,0 +1,27 @@
+{
+  "name": "fixkoboxml",
+  "version": "1.0.0",
+  "description": "add xml title to every xhtml file.",
+  "main": "main.js",
+  "dependencies": {
+    "adm-zip": "^0.4.13",
+    "audit": "^0.0.6",
+    "fix": "^0.0.6",
+    "folder": "^0.0.4",
+    "fs-extra": "^8.0.1",
+    "zip": "^1.2.0",
+    "zip-folder": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Kobo"
+  ],
+  "script" : [
+    "output"
+  ],
+  "author": "tylpk",
+  "license": "MIT"
+}
